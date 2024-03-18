@@ -1,15 +1,15 @@
-# Setup
+## Setup
 
-## Virtual enviroment
+### Virtual enviroment
 
 `python3 -m venv .venv`
 `source .venv/bin/activate`
 
-## Already created:
+### Already created:
 
 `pip freeze > requirements.txt`
 
-## Depencies:
+### Depencies:
 
 `python3 -m pip install pywhatkit`
 `python3 -m pip install InquirerPy`
@@ -18,10 +18,10 @@ or
 
 `pip install -r requirements.txt`
 
-# Contacts:
+## Contacts:
 
 Rename `contacts_example.json` by `contacts.json` and populate with your contacts
 
-# Use:
+## Use:
 
 `python3 w_bot.pyt`
