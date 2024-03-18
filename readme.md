@@ -3,6 +3,8 @@
 This script allows you write a message, select a contact and schedule the message using a simple prompt with 24hs format.
 The contact list used comes from a regular contacts.json.
 
+![Preview](preview.png?raw=true "Preview")
+
 Limitatons:
 
 - Requires Whatsapp web to works.
