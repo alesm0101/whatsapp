@@ -2,15 +2,17 @@
 
 ### Virtual enviroment
 
+Create the virtual enviroment for dependecies:
+
 `python3 -m venv .venv`
 
 `source .venv/bin/activate`
 
-### Already created:
+### Already created
 
 `pip freeze > requirements.txt`
 
-### Depencies:
+### Dependencies
 
 `python3 -m pip install pywhatkit`
 
@@ -20,10 +22,10 @@ or
 
 `pip install -r requirements.txt`
 
-## Contacts:
+## Contacts
 
-Rename `contacts_example.json` by `contacts.json` and populate with your contacts
+Rename `contacts_example.json` by `contacts.json` and populate with your contacts.
 
-## Use:
+## Use
 
 `python3 w_bot.pyt`
